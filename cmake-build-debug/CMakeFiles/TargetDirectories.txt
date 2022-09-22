@@ -1,0 +1,3 @@
+C:/Users/12865/Desktop/OpenCV_sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12865/Desktop/OpenCV_sample/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/12865/Desktop/OpenCV_sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
